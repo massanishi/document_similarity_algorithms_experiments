@@ -79,6 +79,6 @@ def process_jaccard():
 
 	most_similar_document = documents[highest_score_index]
 
-	print("Most similar document by Jaccard with the score", most_similar_document, highest_score)
+	print("Most similar document by Jaccard with the score:", most_similar_document, highest_score)
 
 process_jaccard()

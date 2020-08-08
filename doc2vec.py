@@ -1,7 +1,6 @@
 from gensim.models.doc2vec import Doc2Vec
 from sklearn.metrics.pairwise import cosine_similarity
 
-
 import string
 import nltk
 
