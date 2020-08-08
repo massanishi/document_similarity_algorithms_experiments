@@ -11,7 +11,7 @@ def process_bert_similarity():
 	# This will download and load the pretrained model offered by UKPLab.
 	model = SentenceTransformer('bert-base-nli-mean-tokens')
 
-	# Although it is not explicit, it will feed the model by sentences instead of the whole documents.
+	# Although it is not explicitly stated in the official document of sentence transformer, the original BERT is meant for a shorter sentence. We will feed the model by sentences instead of the whole documents.
 	sentences = sent_tokenize(base_document)
 	base_embeddings_sentences = model.encode(sentences)
 	base_embeddings = np.mean(np.array(base_embeddings_sentences), axis=0)
@@ -37,6 +37,6 @@ def process_bert_similarity():
 			highest_score_index = i
 
 	most_similar_document = documents[highest_score_index]
-	print("Most similar document by Doc2vec with the score:", most_similar_document, highest_score)
+	print("Most similar document by BERT with the score:", most_similar_document, highest_score)
 
 process_bert_similarity()
