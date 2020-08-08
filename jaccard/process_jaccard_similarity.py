@@ -51,7 +51,7 @@ def calculate_jaccard(word_tokens1, word_tokens2):
 	jaccard_score = len(intersection)/len(union)
 	return jaccard_score
 
-def process_jaccard():
+def process_jaccard_similarity():
 
 	# Tokenize the base document we are comparing against.
 	base_tokens = preprocess(base_document)
@@ -81,4 +81,4 @@ def process_jaccard():
 
 	print("Most similar document by Jaccard with the score:", most_similar_document, highest_score)
 
-process_jaccard()
+process_jaccard_similarity()
