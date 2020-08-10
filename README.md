@@ -39,9 +39,9 @@ Winner: USE and BERT
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| My Quarantine Boyfriend Lost Everything (but Found Me) | 1 | Y | Y | Y | Dating | Related |
-| Flying Close to Temptation | 0 | Y | Y | Y | LGBTQ | Related |
-| Why Are All the Exes Texting? | 1 | Y | Y | Y | Dating | Related |
+| (My Quarantine Boyfriend Lost Everything (but Found Me))[https://www.nytimes.com/2020/06/05/style/modern-love-coronavirus-quarantine-boyfriend-lost-everything.html] | 1 | Y | Y | Y | Dating | Related |
+| (Flying Close to Temptation)[https://www.nytimes.com/2018/04/20/style/modern-love-flying-close-to-temptation.html] | 0 | Y | Y | Y | LGBTQ | Related |
+| (Why Are All the Exes Texting?)[https://www.nytimes.com/2020/05/29/style/modern-love-coronavirus-why-are-all-the-exes-texting.html] | 1 | Y | Y | Y | Dating | Related |
 
 ## A Deep-Sea Magma Monster Gets a Body Scan
 
@@ -49,9 +49,9 @@ Winner: TF-IDF
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| A 3D Encounter With a Violent Volcano’s Underbelly | 4 | Y | N | Y | 3D Mapped Volcano | Highly Related |
-| Pressure, and Mystery, on the Rise | 1 | Y | Y | Y | Iceland's Volcano | Related |
-| It’s Not Just Hawaii: The U.S. Has 169 Volcanoes That Could Erupt | 2 | N | N | Y | Volcanos | Related |
+| (A 3D Encounter With a Violent Volcano’s Underbelly)[https://www.nytimes.com/2019/12/18/science/volcano-3d-reunion-island.html] | 4 | Y | N | Y | 3D Mapped Volcano | Highly Related |
+| (Pressure, and Mystery, on the Rise)[https://www.nytimes.com/2015/01/06/science/predicting-what-a-volcano-may-or-may-not-do-is-as-tricky-as-it-is-crucial-as-iceland-well-knows.html] | 1 | Y | Y | Y | Iceland's Volcano | Related |
+| (It’s Not Just Hawaii: The U.S. Has 169 Volcanoes That Could Erupt)[https://www.nytimes.com/2018/05/14/us/us-active-volcanoes-hawaii.html] | 2 | N | N | Y | Volcanos | Related |
 
 
 ## Renault and Nissan Try a New Way After Years When Carlos Ghosn Ruled
@@ -60,9 +60,9 @@ Winner: TF-IDF
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| Nissan CEO Says 'No Merit' in Merger With Renault-Nikkei | 3 | N | N | Y | Nissan and Renault | Related |
-| Carlos Ghosn and the Roots of Nissan’s Decline | 3 | N | N | N | Cardlos Ghosn | Related |
-| Renault Chooses Volkswagen Executive as New C.E.O. | 5 | Y | Y | Y | Renault CEO | Very Related |
+| (Nissan CEO Says 'No Merit' in Merger With Renault-Nikkei)[https://www.nytimes.com/reuters/2018/04/25/business/25reuters-renault-nissan-m-a.html] | 3 | N | N | Y | Nissan and Renault | Related |
+| (Carlos Ghosn and the Roots of Nissan’s Decline)[https://www.nytimes.com/2020/01/15/automobiles/nissan-carlos-ghosn-strategy.html] | 3 | N | N | N | Cardlos Ghosn | Related |
+| (Renault Chooses Volkswagen Executive as New C.E.O.)[https://www.nytimes.com/2020/01/28/business/renault-ceo-luca-de-meo.html] | 5 | Y | Y | Y | Renault CEO | Very Related |
 
 ## Dominic Thiem Beats Rafael Nadal in Australian Open Quarterfinal
 
@@ -72,9 +72,9 @@ Winner: Jaccard, TF-IDF, and USE
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| Djokovic vs. Federer, a Rivalry for the Ages, Is One-Sided This Time | 3 | Y | Y | Y | Australian Open | Related |
-| Novak Djokovic Wins the Australian Open | 4 | Y | Y | Y | Dominic vs Novak in Australian Open | Very Related |
-| With Rome Title, Nadal Back on Track Entering French Open | 1 | N | N | Y | French Open | Unrelated |
+| [Djokovic vs. Federer, a Rivalry for the Ages, Is One-Sided This Time](https://www.nytimes.com/2020/01/30/sports/tennis/djokovic-federer-australian-open.html) | 3 | Y | Y | Y | Australian Open | Related |
+| [Novak Djokovic Wins the Australian Open](https://www.nytimes.com/2020/02/02/sports/tennis/australian-open-djokovic-thiem.html) | 4 | Y | Y | Y | Dominic vs Novak in Australian Open | Very Related |
+| [With Rome Title, Nadal Back on Track Entering French Open](https://www.nytimes.com/aponline/2018/05/20/sports/tennis/ap-ten-italian-open.html) | 1 | N | N | Y | French Open | Unrelated |
 
 ## 2020 Democrats Seek Voters in an Unusual Spot: Fox News
 
@@ -82,9 +82,9 @@ Winner: USE
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| Bernie Sanders Had a Problem With MSNBC. Then Came Super Tuesday. | 7 | N | N | Y | Sanders and MSNBC | Very Related |
-| Democrats, Don’t Abandon Fox News | 7 | N | N | N | Democrats and Fox News | Very Related |
-| Candidates Running Against, and With, Cable News | 4 | Y | Y | Y | Fox, MSNBC and politics  | Related |
+| (Bernie Sanders Had a Problem With MSNBC. Then Came Super Tuesday.)[https://www.nytimes.com/2020/03/05/business/media/msnbc-bernie-sanders-media.html] | 7 | N | N | Y | Sanders and MSNBC | Very Related |
+| (Democrats, Don’t Abandon Fox News)[https://www.nytimes.com/2019/03/08/opinion/fox-news-democrats-debate.html] | 7 | N | N | N | Democrats and Fox News | Very Related |
+| (Candidates Running Against, and With, Cable News)[https://www.nytimes.com/2010/10/24/us/politics/24cable.html] | 4 | Y | Y | Y | Fox, MSNBC and politics  | Related |
 
 # Note
 
