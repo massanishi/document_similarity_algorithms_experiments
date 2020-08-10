@@ -9,7 +9,7 @@
 - Section: style
 - Subsection: modern love
 - Story: Human interest
-- Bese case prediction: The article will be about dating for older couples who have experienced marriage.
+- best case prediction: The article will be about dating for older couples who have experienced marriage.
 
 ### Result
 
@@ -47,7 +47,7 @@
 - Section: science
 - Subsection: none
 - Story: Informational
-- Bese case prediction: The article will talk about ocean and 3d scanning.
+- best case prediction: The article will talk about ocean and 3d scanning.
 
 ### Result
 
