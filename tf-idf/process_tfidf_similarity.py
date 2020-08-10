@@ -4,7 +4,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 base_document = "This is an example sentence for the document to be compared"
 documents = ["This is the collection of documents to be compared against the base_document"]
 
-def process_tfidf():
+def process_tfidf_similarity():
 	vectorizer = TfidfVectorizer()
 
 	# To make uniformed vectors, both documents need to be combined first.
@@ -25,4 +25,4 @@ def process_tfidf():
 
 	print("Most similar document by TF-IDF with the score:", most_similar_document, highest_score)
 
-process_tfidf()
+process_tfidf_similarity()
