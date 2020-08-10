@@ -134,9 +134,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| Djokovic vs. Federer, a Rivalry for the Ages, Is One-Sided This Time | 3 | Y | Y | Y | Australian Open | Related |
-| Novak Djokovic Wins the Australian Open | 4 | Y | Y | Y | Dominic vs Novak in Australian Open | Very Related |
-| Stan Wawrinka and Rafael Nadal Reach French Open Final | 1 | Y | Y | Y | French Open | Unrelated |
+| (Djokovic vs. Federer, a Rivalry for the Ages, Is One-Sided This Time)[https://www.nytimes.com/2020/01/30/sports/tennis/djokovic-federer-australian-open.html] | 3 | Y | Y | Y | Australian Open | Related |
+| (Novak Djokovic Wins the Australian Open)[https://www.nytimes.com/2020/02/02/sports/tennis/australian-open-djokovic-thiem.html] | 4 | Y | Y | Y | Dominic vs Novak in Australian Open | Very Related |
+| (Stan Wawrinka and Rafael Nadal Reach French Open Final)[https://www.nytimes.com/2017/06/09/sports/tennis/french-open-stan-wawrinka-semifinals.html] | 1 | Y | Y | Y | French Open | Unrelated |
 
 ### Breakdown
 
