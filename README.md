@@ -31,6 +31,8 @@ Overlapping tags, sections, subsections, writing format, and subjective judgemen
 
 TF-IDF. It resulted in the best matches in 2.5 out of 5 comparisons.
 
+The detailed breakdowns of how each algorithm predicted can be found in the algorithm folders.
+
 # Winner Algorithm By Each Article
 
 ## How My Worst Date Ever Became My Best
@@ -85,7 +87,3 @@ Winner: USE
 | [Bernie Sanders Had a Problem With MSNBC. Then Came Super Tuesday.](https://www.nytimes.com/2020/03/05/business/media/msnbc-bernie-sanders-media.html) | 7 | N | N | Y | Sanders and MSNBC | Very Related |
 | [Democrats, Don’t Abandon Fox News](https://www.nytimes.com/2019/03/08/opinion/fox-news-democrats-debate.html) | 7 | N | N | N | Democrats and Fox News | Very Related |
 | [Candidates Running Against, and With, Cable News](https://www.nytimes.com/2010/10/24/us/politics/24cable.html) | 4 | Y | Y | Y | Fox, MSNBC and politics  | Related |
-
-# Note
-
-Detailed breakdown of each article is found in the algorithm folders.
