@@ -15,9 +15,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| ("After Losing My Sight, Struggling to Be Seen")[https://www.nytimes.com/2020/01/17/style/modern-love-after-losing-my-sight-struggling-to-be-seen-blindness.html] | 1 | Y | Y | Y | Dating and Service Dog | Related |
-| (My Quarantine Boyfriend Lost Everything (but Found Me))[https://www.nytimes.com/2020/06/05/style/modern-love-coronavirus-quarantine-boyfriend-lost-everything.html] | 1 | Y | Y | Y | Dating | Related |
-| (Together)[https://www.nytimes.com/2020/06/12/style/modern-love-coronavirus-living-together.html] | 1 | Y | Y | Y | Family | Unrelated |
+| ["After Losing My Sight, Struggling to Be Seen"](https://www.nytimes.com/2020/01/17/style/modern-love-after-losing-my-sight-struggling-to-be-seen-blindness.html) | 1 | Y | Y | Y | Dating and Service Dog | Related |
+| [My Quarantine Boyfriend Lost Everything (but Found Me)](https://www.nytimes.com/2020/06/05/style/modern-love-coronavirus-quarantine-boyfriend-lost-everything.html) | 1 | Y | Y | Y | Dating | Related |
+| [Together](https://www.nytimes.com/2020/06/12/style/modern-love-coronavirus-living-together.html) | 1 | Y | Y | Y | Family | Unrelated |
 
 1. "After Losing My Sight, Struggling to Be Seen"
 
@@ -53,9 +53,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (A 3D Encounter With a Violent Volcano’s Underbelly)[https://www.nytimes.com/2019/12/18/science/volcano-3d-reunion-island.html] | 4 | Y | N | Y | 3D Mapped Volcano | Highly Related |
-| (The Mount St. Helens Eruption Was the Volcanic Warning We Needed)[https://www.nytimes.com/2020/05/18/science/mt-st-helens-eruption.html] | 3 | Y | Y | N | Volcano | Related |
-| (The Loyal Engineers Steering NASA’s Voyager Probes Across)[https://www.nytimes.com/2017/08/03/magazine/the-loyal-engineers-steering-nasas-voyager-probes-across-the-universe.html] | 0 | Y | Y | N | NASA | Unrelated |
+| [A 3D Encounter With a Violent Volcano’s Underbelly](https://www.nytimes.com/2019/12/18/science/volcano-3d-reunion-island.html) | 4 | Y | N | Y | 3D Mapped Volcano | Highly Related |
+| [The Mount St. Helens Eruption Was the Volcanic Warning We Needed](https://www.nytimes.com/2020/05/18/science/mt-st-helens-eruption.html) | 3 | Y | Y | N | Volcano | Related |
+| [The Loyal Engineers Steering NASA’s Voyager Probes Across](https://www.nytimes.com/2017/08/03/magazine/the-loyal-engineers-steering-nasas-voyager-probes-across-the-universe.html) | 0 | Y | Y | N | NASA | Unrelated |
 
 ### Breakdown
 
@@ -93,9 +93,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (Renault Chooses Volkswagen Executive as New C.E.O.)[https://www.nytimes.com/2020/01/28/business/renault-ceo-luca-de-meo.html] | 5 | Y | Y | Y | Renault CEO | Very Related |
-| (Renault and Nissan Unveil Plan to Patch Tattered Alliance)[https://www.nytimes.com/2020/05/27/business/renault-nissan-alliance.html] | 4 | Y | Y | Y | Nissan and Renault | Very Related |
-| (Fiat Chrysler and Peugeot Agree on Terms to Forge New Auto Giant)[https://www.nytimes.com/2019/12/18/business/fiat-chrysler-peugeot.html] | 2 | Y | Y | Y | Car Industry | Unrelated |
+| [Renault Chooses Volkswagen Executive as New C.E.O.](https://www.nytimes.com/2020/01/28/business/renault-ceo-luca-de-meo.html) | 5 | Y | Y | Y | Renault CEO | Very Related |
+| [Renault and Nissan Unveil Plan to Patch Tattered Alliance](https://www.nytimes.com/2020/05/27/business/renault-nissan-alliance.html) | 4 | Y | Y | Y | Nissan and Renault | Very Related |
+| [Fiat Chrysler and Peugeot Agree on Terms to Forge New Auto Giant](https://www.nytimes.com/2019/12/18/business/fiat-chrysler-peugeot.html) | 2 | Y | Y | Y | Car Industry | Unrelated |
 
 ### Breakdown
 
@@ -134,9 +134,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (Djokovic vs. Federer, a Rivalry for the Ages, Is One-Sided This Time)[https://www.nytimes.com/2020/01/30/sports/tennis/djokovic-federer-australian-open.html] | 3 | Y | Y | Y | Australian Open | Related |
-| (Roger Federer Rallies to Reach the Final in Indian Wells)[https://www.nytimes.com/2018/03/17/sports/roger-federer-indian-wells.html] | 1 | Y | N | Y | Paribas Open and Rogeer Federer | Unrelated |
-| (Alexander Zverev and Johanna Konta Lose in French Open Upsets)[https://www.nytimes.com/2017/05/30/sports/tennis/french-open-day-3-zverev.html] | 1 | Y | Y | Y | French Open | Unrelated |
+| [Djokovic vs. Federer, a Rivalry for the Ages, Is One-Sided This Time](https://www.nytimes.com/2020/01/30/sports/tennis/djokovic-federer-australian-open.html) | 3 | Y | Y | Y | Australian Open | Related |
+| [Roger Federer Rallies to Reach the Final in Indian Wells](https://www.nytimes.com/2018/03/17/sports/roger-federer-indian-wells.html) | 1 | Y | N | Y | Paribas Open and Rogeer Federer | Unrelated |
+| [Alexander Zverev and Johanna Konta Lose in French Open Upsets](https://www.nytimes.com/2017/05/30/sports/tennis/french-open-day-3-zverev.html) | 1 | Y | Y | Y | French Open | Unrelated |
 
 ### Breakdown
 
@@ -177,9 +177,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (Elizabeth Warren’s Allies Claim ‘Erasure’ As They Seek To Reignite Campaign)[https://www.nytimes.com/2020/02/18/us/politics/elizabeth-warren-nevada.html] | 5 | Y | Y | Y | Elizabeth's debate | Unrelated |
-| (Did America Misjudge Bernie Sanders? Or Did He Misjudge America?)[https://www.nytimes.com/2020/03/16/magazine/bernie-sanders-campaign.html] | 4 | Y | Y | Y | Bernie Sanders | Related |
-| (Frozen in Anxiety: How Democratic Leaders Struggled to Confront Bernie Sanders)[https://www.nytimes.com/2020/03/02/us/politics/bernie-sanders-democratic-party.html] | 5 | Y | Y | N | Bernie Sanders | Related |
+| [Elizabeth Warren’s Allies Claim ‘Erasure’ As They Seek To Reignite Campaign](https://www.nytimes.com/2020/02/18/us/politics/elizabeth-warren-nevada.html) | 5 | Y | Y | Y | Elizabeth's debate | Unrelated |
+| [Did America Misjudge Bernie Sanders? Or Did He Misjudge America?](https://www.nytimes.com/2020/03/16/magazine/bernie-sanders-campaign.html) | 4 | Y | Y | Y | Bernie Sanders | Related |
+| [Frozen in Anxiety: How Democratic Leaders Struggled to Confront Bernie Sanders](https://www.nytimes.com/2020/03/02/us/politics/bernie-sanders-democratic-party.html) | 5 | Y | Y | N | Bernie Sanders | Related |
 
 ### Breakdown
 

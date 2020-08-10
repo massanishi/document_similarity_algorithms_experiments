@@ -15,9 +15,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (My Quarantine Boyfriend Lost Everything (but Found Me))[https://www.nytimes.com/2020/06/05/style/modern-love-coronavirus-quarantine-boyfriend-lost-everything.html] | 1 | Y | Y | Y | Dating | Related |
-| (Flying Close to Temptation)[https://www.nytimes.com/2018/04/20/style/modern-love-flying-close-to-temptation.html] | 0 | Y | Y | Y | LGBTQ | Related |
-| (Why Are All the Exes Texting?)[https://www.nytimes.com/2020/05/29/style/modern-love-coronavirus-why-are-all-the-exes-texting.html] | 1 | Y | Y | Y | Dating | Related |
+| [My Quarantine Boyfriend Lost Everything (but Found Me)](https://www.nytimes.com/2020/06/05/style/modern-love-coronavirus-quarantine-boyfriend-lost-everything.html) | 1 | Y | Y | Y | Dating | Related |
+| [Flying Close to Temptation](https://www.nytimes.com/2018/04/20/style/modern-love-flying-close-to-temptation.html) | 0 | Y | Y | Y | LGBTQ | Related |
+| [Why Are All the Exes Texting?](https://www.nytimes.com/2020/05/29/style/modern-love-coronavirus-why-are-all-the-exes-texting.html) | 1 | Y | Y | Y | Dating | Related |
 
 1. My Quarantine Boyfriend Lost Everything (but Found Me)
 
@@ -53,9 +53,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (A 3D Encounter With a Violent Volcano’s Underbelly)[https://www.nytimes.com/2019/12/18/science/volcano-3d-reunion-island.html] | 4 | Y | N | Y | 3D Mapped Volcano | Highly Related |
-| (The Mount St. Helens Eruption Was the Volcanic Warning We Needed)[https://www.nytimes.com/2020/05/18/science/mt-st-helens-eruption.html] | 3 | Y | Y | N | Volcano | Related |
-| (Kilauea Volcano’s Lava Fields Offer Scientists a Portal to Mars)[https://www.nytimes.com/2018/05/28/science/kilauea-volcanos-lava-fields-scientists-mars.html] | 1 | Y | Y | Y | Volcano and Mars | Related |
+| [A 3D Encounter With a Violent Volcano’s Underbelly](https://www.nytimes.com/2019/12/18/science/volcano-3d-reunion-island.html) | 4 | Y | N | Y | 3D Mapped Volcano | Highly Related |
+| [The Mount St. Helens Eruption Was the Volcanic Warning We Needed](https://www.nytimes.com/2020/05/18/science/mt-st-helens-eruption.html) | 3 | Y | Y | N | Volcano | Related |
+| [Kilauea Volcano’s Lava Fields Offer Scientists a Portal to Mars](https://www.nytimes.com/2018/05/28/science/kilauea-volcanos-lava-fields-scientists-mars.html) | 1 | Y | Y | Y | Volcano and Mars | Related |
 
 ### Breakdown
 
@@ -134,9 +134,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (Djokovic vs. Federer, a Rivalry for the Ages, Is One-Sided This Time)[https://www.nytimes.com/2020/01/30/sports/tennis/djokovic-federer-australian-open.html] | 3 | Y | Y | Y | Australian Open | Related |
-| (Novak Djokovic Wins the Australian Open)[https://www.nytimes.com/2020/02/02/sports/tennis/australian-open-djokovic-thiem.html] | 4 | Y | Y | Y | Dominic vs Novak in Australian Open | Very Related |
-| (Stan Wawrinka and Rafael Nadal Reach French Open Final)[https://www.nytimes.com/2017/06/09/sports/tennis/french-open-stan-wawrinka-semifinals.html] | 1 | Y | Y | Y | French Open | Unrelated |
+| [Djokovic vs. Federer, a Rivalry for the Ages, Is One-Sided This Time](https://www.nytimes.com/2020/01/30/sports/tennis/djokovic-federer-australian-open.html) | 3 | Y | Y | Y | Australian Open | Related |
+| [Novak Djokovic Wins the Australian Open](https://www.nytimes.com/2020/02/02/sports/tennis/australian-open-djokovic-thiem.html) | 4 | Y | Y | Y | Dominic vs Novak in Australian Open | Very Related |
+| [Stan Wawrinka and Rafael Nadal Reach French Open Final](https://www.nytimes.com/2017/06/09/sports/tennis/french-open-stan-wawrinka-semifinals.html) | 1 | Y | Y | Y | French Open | Unrelated |
 
 ### Breakdown
 
@@ -177,9 +177,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (Bernie Sanders Had a Problem With MSNBC. Then Came Super Tuesday.)[https://www.nytimes.com/2020/03/05/business/media/msnbc-bernie-sanders-media.html] | 7 | N | N | Y | Sanders and MSNBC | Very Related |
-| (Democrats, Don’t Abandon Fox News)[https://www.nytimes.com/2019/03/08/opinion/fox-news-democrats-debate.html] | 7 | N | N | N | Democrats and Fox News | Very Related |
-| (Candidates Running Against, and With, Cable News)[https://www.nytimes.com/2010/10/24/us/politics/24cable.html] | 4 | Y | Y | Y | Fox, MSNBC and politics  | Related |
+| [Bernie Sanders Had a Problem With MSNBC. Then Came Super Tuesday.](https://www.nytimes.com/2020/03/05/business/media/msnbc-bernie-sanders-media.html) | 7 | N | N | Y | Sanders and MSNBC | Very Related |
+| [Democrats, Don’t Abandon Fox News](https://www.nytimes.com/2019/03/08/opinion/fox-news-democrats-debate.html) | 7 | N | N | N | Democrats and Fox News | Very Related |
+| [Candidates Running Against, and With, Cable News](https://www.nytimes.com/2010/10/24/us/politics/24cable.html) | 4 | Y | Y | Y | Fox, MSNBC and politics  | Related |
 
 ### Breakdown
 

@@ -15,9 +15,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (Why Are All the Exes Texting?)[https://www.nytimes.com/2020/05/29/style/modern-love-coronavirus-why-are-all-the-exes-texting.html] | 1 | Y | Y | Y | Dating | Related |
-| (When Love Seems Too Easy to Trust)[https://www.nytimes.com/2018/04/13/style/when-love-seems-too-easy-to-trust.html] | 1 | Y | Y | Y | Dating | Related |
-| (He Saved His Last Lesson for Me)[https://www.nytimes.com/2020/03/06/style/modern-love-long-distance-dating-korea.html] | 1 | Y | Y | Y | Dating | Related |
+| [Why Are All the Exes Texting?](https://www.nytimes.com/2020/05/29/style/modern-love-coronavirus-why-are-all-the-exes-texting.html) | 1 | Y | Y | Y | Dating | Related |
+| [When Love Seems Too Easy to Trust](https://www.nytimes.com/2018/04/13/style/when-love-seems-too-easy-to-trust.html) | 1 | Y | Y | Y | Dating | Related |
+| [He Saved His Last Lesson for Me](https://www.nytimes.com/2020/03/06/style/modern-love-long-distance-dating-korea.html) | 1 | Y | Y | Y | Dating | Related |
 
 1. Why Are All the Exes Texting?
 
@@ -53,9 +53,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (As Lava Oozes, Hawaii Officials Say Rest of Island Is Open)[https://www.nytimes.com/aponline/2018/05/11/us/ap-us-hawaii-volcano.html] | 0 | N | N | N | Hawaii Volcano Warning | Related |
-| (Did Heavy Rain Make Hawaii’s Kilauea Volcano Erupt?)[https://www.nytimes.com/2020/04/22/science/kilauea-volcano-eruption-rain.html] | 3 | Y | Y | N | Hawaii Volcano | Related |
-| (A 3D Encounter With a Violent Volcano’s Underbelly)[https://www.nytimes.com/2019/12/18/science/volcano-3d-reunion-island.html] | 4 | Y | N | Y | 3D Mapped Volcano | Highly Related |
+| [As Lava Oozes, Hawaii Officials Say Rest of Island Is Open](https://www.nytimes.com/aponline/2018/05/11/us/ap-us-hawaii-volcano.html) | 0 | N | N | N | Hawaii Volcano Warning | Related |
+| [Did Heavy Rain Make Hawaii’s Kilauea Volcano Erupt?](https://www.nytimes.com/2020/04/22/science/kilauea-volcano-eruption-rain.html) | 3 | Y | Y | N | Hawaii Volcano | Related |
+| [A 3D Encounter With a Violent Volcano’s Underbelly](https://www.nytimes.com/2019/12/18/science/volcano-3d-reunion-island.html) | 4 | Y | N | Y | 3D Mapped Volcano | Highly Related |
 
 ### Breakdown
 
@@ -94,9 +94,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (Renault and Nissan Unveil Plan to Patch Tattered Alliance)[https://www.nytimes.com/2020/05/27/business/renault-nissan-alliance.html] | 4 | Y | Y | Y | Nissan and Renault | Very Related |
-| (Volkswagen's New CEO Treads Carefully on Road to Reform)[https://www.nytimes.com/reuters/2018/04/13/business/13reuters-volkswagen-management.html] | 1 | N | N | Y | Volkswagen | Unrelated |
-| (Fiat Chrysler and Peugeot Agree on Terms to Forge New Auto Giant)[https://www.nytimes.com/2019/12/18/business/fiat-chrysler-peugeot.html] | 2 | Y | Y | Y | Car Industry | Unrelated |
+| [Renault and Nissan Unveil Plan to Patch Tattered Alliance](https://www.nytimes.com/2020/05/27/business/renault-nissan-alliance.html) | 4 | Y | Y | Y | Nissan and Renault | Very Related |
+| [Volkswagen's New CEO Treads Carefully on Road to Reform](https://www.nytimes.com/reuters/2018/04/13/business/13reuters-volkswagen-management.html) | 1 | N | N | Y | Volkswagen | Unrelated |
+| [Fiat Chrysler and Peugeot Agree on Terms to Forge New Auto Giant](https://www.nytimes.com/2019/12/18/business/fiat-chrysler-peugeot.html) | 2 | Y | Y | Y | Car Industry | Unrelated |
 
 ### Breakdown
 
@@ -136,9 +136,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (Novak Djokovic Wins the Australian Open)[https://www.nytimes.com/2020/02/02/sports/tennis/australian-open-djokovic-thiem.html] | 4 | Y | Y | Y | Dominic vs Novak in Australian Open | Very Related |
-| (Djokovic vs. Federer, a Rivalry for the Ages, Is One-Sided This Time)[https://www.nytimes.com/2020/01/30/sports/tennis/djokovic-federer-australian-open.html] | 3 | Y | Y | Y | Australian Open | Related |
-| (Though Federer Survives 2nd 5-Set Match, His Play Invites Questions)[https://www.nytimes.com/2017/08/31/sports/tennis/roger-federer-us-open.html] | 1 | Y | Y | Y | US Open | Unrelated |
+| [Novak Djokovic Wins the Australian Open](https://www.nytimes.com/2020/02/02/sports/tennis/australian-open-djokovic-thiem.html) | 4 | Y | Y | Y | Dominic vs Novak in Australian Open | Very Related |
+| [Djokovic vs. Federer, a Rivalry for the Ages, Is One-Sided This Time](https://www.nytimes.com/2020/01/30/sports/tennis/djokovic-federer-australian-open.html) | 3 | Y | Y | Y | Australian Open | Related |
+| [Though Federer Survives 2nd 5-Set Match, His Play Invites Questions](https://www.nytimes.com/2017/08/31/sports/tennis/roger-federer-us-open.html) | 1 | Y | Y | Y | US Open | Unrelated |
 
 ### Breakdown
 
@@ -178,9 +178,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| Frozen in Anxiety: How Democratic Leaders Struggled to Confront Bernie Sanders | 5 | Y | Y | N | Bernie Sanders | Related |
-| No Disclosure? No Problem. Sean Hannity Gets a Pass at Fox News. | 2 | N | N | Y | Fox | Related |
-| Bernie Sanders Had a Problem With MSNBC. Then Came Super Tuesday. | 7 | N | N | Y | Sanders and MSNBC | Very Related |
+| [Frozen in Anxiety: How Democratic Leaders Struggled to Confront Bernie Sanders](https://www.nytimes.com/2020/03/02/us/politics/bernie-sanders-democratic-party.html) | 5 | Y | Y | N | Bernie Sanders | Related |
+| [No Disclosure? No Problem. Sean Hannity Gets a Pass at Fox News.](https://www.nytimes.com/2018/04/17/business/media/sean-hannity-fox-news.html) | 2 | N | N | Y | Fox | Related |
+| [Bernie Sanders Had a Problem With MSNBC. Then Came Super Tuesday.](https://www.nytimes.com/2020/03/05/business/media/msnbc-bernie-sanders-media.html) | 7 | N | N | Y | Sanders and MSNBC | Very Related |
 
 ### Breakdown
 

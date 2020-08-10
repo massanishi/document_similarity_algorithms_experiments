@@ -16,8 +16,8 @@
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
 | [Telling the Truth Wasn’t an Option](https://www.nytimes.com/2020/03/20/style/modern-love-undocumented-immigrant-telling-truth-wasnt-option.html) | 1 | Y | Y | Y | Illegal Immigration | Related |
-| (Live Alone? We Want to Hear From You)[https://www.nytimes.com/2020/04/24/style/modern-love-coronavirus-alone-callout.html] | 0 | Y | Y | N | Viewer request | Unrelated |
-| (Love in the Time of Low Expectations)[https://www.nytimes.com/2020/01/24/style/modern-love-in-the-time-of-low-expectations.html] | 1 | Y | Y | Y | Dating | Related |
+| [Live Alone? We Want to Hear From You](https://www.nytimes.com/2020/04/24/style/modern-love-coronavirus-alone-callout.html) | 0 | Y | Y | N | Viewer request | Unrelated |
+| [Love in the Time of Low Expectations](https://www.nytimes.com/2020/01/24/style/modern-love-in-the-time-of-low-expectations.html) | 1 | Y | Y | Y | Dating | Related |
 
 1. Telling the Truth Wasn’t an Option
 
@@ -53,9 +53,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (A 3D Encounter With a Violent Volcano’s Underbelly)[https://www.nytimes.com/2019/12/18/science/volcano-3d-reunion-island.html] | 4 | Y | N | Y | 3D Mapped Volcano | Highly Related |
-| (Pressure, and Mystery, on the Rise)[https://www.nytimes.com/2015/01/06/science/predicting-what-a-volcano-may-or-may-not-do-is-as-tricky-as-it-is-crucial-as-iceland-well-knows.html] | 1 | Y | Y | Y | Iceland's Volcano | Related |
-| (It’s Not Just Hawaii: The U.S. Has 169 Volcanoes That Could Erupt)[https://www.nytimes.com/2018/05/14/us/us-active-volcanoes-hawaii.html] | 2 | N | N | Y | Volcanos | Related |
+| [A 3D Encounter With a Violent Volcano’s Underbelly](https://www.nytimes.com/2019/12/18/science/volcano-3d-reunion-island.html) | 4 | Y | N | Y | 3D Mapped Volcano | Highly Related |
+| [Pressure, and Mystery, on the Rise](https://www.nytimes.com/2015/01/06/science/predicting-what-a-volcano-may-or-may-not-do-is-as-tricky-as-it-is-crucial-as-iceland-well-knows.html) | 1 | Y | Y | Y | Iceland's Volcano | Related |
+| [It’s Not Just Hawaii: The U.S. Has 169 Volcanoes That Could Erupt](https://www.nytimes.com/2018/05/14/us/us-active-volcanoes-hawaii.html) | 2 | N | N | Y | Volcanos | Related |
 
 ### Breakdown
 
@@ -93,9 +93,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (Nissan CEO Says 'No Merit' in Merger With Renault-Nikkei)[https://www.nytimes.com/reuters/2018/04/25/business/25reuters-renault-nissan-m-a.html] | 3 | N | N | Y | Nissan and Renault | Related |
-| (Carlos Ghosn and the Roots of Nissan’s Decline)[https://www.nytimes.com/2020/01/15/automobiles/nissan-carlos-ghosn-strategy.html] | 3 | N | N | N | Cardlos Ghosn | Related |
-| (Renault Chooses Volkswagen Executive as New C.E.O.)[https://www.nytimes.com/2020/01/28/business/renault-ceo-luca-de-meo.html] | 5 | Y | Y | Y | Renault CEO | Very Related |
+| [Nissan CEO Says 'No Merit' in Merger With Renault-Nikkei](https://www.nytimes.com/reuters/2018/04/25/business/25reuters-renault-nissan-m-a.html) | 3 | N | N | Y | Nissan and Renault | Related |
+| [Carlos Ghosn and the Roots of Nissan’s Decline](https://www.nytimes.com/2020/01/15/automobiles/nissan-carlos-ghosn-strategy.html) | 3 | N | N | N | Cardlos Ghosn | Related |
+| [Renault Chooses Volkswagen Executive as New C.E.O.](https://www.nytimes.com/2020/01/28/business/renault-ceo-luca-de-meo.html) | 5 | Y | Y | Y | Renault CEO | Very Related |
 
 ### Breakdown
 
@@ -134,9 +134,9 @@
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (Novak Djokovic Wins the Australian Open)[https://www.nytimes.com/2020/02/02/sports/tennis/australian-open-djokovic-thiem.html] | 4 | Y | Y | Y | Dominic vs Novak in Australian Open | Very Related |
-| (Thiem Warms Up for French Open With Victory in Lyon)[https://www.nytimes.com/aponline/2018/05/26/sports/tennis/ap-ten-lyon-open.html] | 1 | N | N | Y | French Open about Thiem | Related |
-| (Deja Vu for French Open as Nadal Favorite Again)[https://www.nytimes.com/reuters/2018/05/24/sports/tennis/24reuters-tennis-frenchopen-men.html] | 1 | Y | N | Y | French Open | Unrelated |
+| [Novak Djokovic Wins the Australian Open](https://www.nytimes.com/2020/02/02/sports/tennis/australian-open-djokovic-thiem.html) | 4 | Y | Y | Y | Dominic vs Novak in Australian Open | Very Related |
+| [Thiem Warms Up for French Open With Victory in Lyon](https://www.nytimes.com/aponline/2018/05/26/sports/tennis/ap-ten-lyon-open.html) | 1 | N | N | Y | French Open about Thiem | Related |
+| [Deja Vu for French Open as Nadal Favorite Again](https://www.nytimes.com/reuters/2018/05/24/sports/tennis/24reuters-tennis-frenchopen-men.html) | 1 | Y | N | Y | French Open | Unrelated |
 
 ### Breakdown
 
@@ -177,8 +177,8 @@
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
 | [Democrats, Don’t Abandon Fox News](https://www.nytimes.com/2019/03/08/opinion/fox-news-democrats-debate.html) | 7 | N | N | N | Democrats and Fox News | Very Related |
-| (The Nation: Perspective on the Press; Fox News Moves From the Margins to the Mainstream)[https://www.nytimes.com/2002/12/01/weekinreview/nation-perspective-press-fox-moves-margins-mainstream.html] | 2 | N | N | Y | Fox News | Related |
-| (Handling of Donald Trump Puts Fox News on the Spot)[https://www.nytimes.com/2015/08/12/business/media/handling-of-trump-puts-fox-on-the-spot.html] | 2 | N | N | Y | Trump and Fox (old) | Unrelated |
+| [The Nation: Perspective on the Press; Fox News Moves From the Margins to the Mainstream](https://www.nytimes.com/2002/12/01/weekinreview/nation-perspective-press-fox-moves-margins-mainstream.html) | 2 | N | N | Y | Fox News | Related |
+| [Handling of Donald Trump Puts Fox News on the Spot](https://www.nytimes.com/2015/08/12/business/media/handling-of-trump-puts-fox-on-the-spot.html) | 2 | N | N | Y | Trump and Fox (old) | Unrelated |
 
 ### Breakdown
 
