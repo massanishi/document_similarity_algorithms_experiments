@@ -73,7 +73,7 @@
 	- Subsection: none
 	- Story: Informational
 
-	- 3. It’s Not Just Hawaii: The U.S. Has 169 Volcanoes That Could Erupt
+3. It’s Not Just Hawaii: The U.S. Has 169 Volcanoes That Could Erupt
 
 	- Tags: Volcano,Geology,Emergency Response and Preparedness,Alaska Volcano Observatory,US Geological Survey,Aleutian Islands,Lassen Volcanic National Park, Calif.,Kilauea volcano,Mountain States,Alaska,Hawaii,Wyoming,Western States,Yellowstone National Park,Oregon,Washington
 	- Section: us
