@@ -1,6 +1,8 @@
+# Document Similarity Algorithms Experiment
+
 Document similarity comparison using 5 popular algorithms: Jaccard, TF-IDF, Doc2vec, USE, and BERT.
 
-33,914 New York Times articles are used for the experiment.
+33,914 New York Times articles are used for the experiment. It aims to show which algorithm yields the best result out of the box in 2020.
 
 # Purpose
 
@@ -11,25 +13,25 @@ Document similarity comparison using 5 popular algorithms: Jaccard, TF-IDF, Doc2
 
 # Data Setup
 
-33,914 New York Times articles from 2018 to June 2020 were selected. The data was mostly collected from their RSS feed. Article lengths are fairly similar with an average of .
+33,914 New York Times articles from 2018 to June 2020 were selected. The data was mostly collected from their RSS feed.
 
-From them, 5 articles were chosen as the basis. They represent different categories.
+5 articles were chosen as the basis. They represent different categories.
 
-1. How My Worst Date Ever Became My Best (lifestyle)
-2. A Deep-Sea Magma Monster Gets a Body Scan (science)
-3. Renault and Nissan Try a New Way After Years When Carlos Ghosn Ruled (business)
-4. Dominic Thiem Beats Rafael Nadal in Australian Open Quarterfinal (sports)
-5. 2020 Democrats Seek Voters in an Unusual Spot: Fox News (politics)
+1. [How My Worst Date Ever Became My Best](https://www.nytimes.com/2020/02/14/style/modern-love-worst-date-of-my-life-became-best.html) (lifestyle)
+2. [A Deep-Sea Magma Monster Gets a Body Scan](https://www.nytimes.com/2019/12/03/science/axial-volcano-mapping.html) (science)
+3. [Renault and Nissan Try a New Way After Years When Carlos Ghosn Ruled](https://www.nytimes.com/2019/11/29/business/renault-nissan-mitsubishi-alliance.html) (business)
+4. [Dominic Thiem Beats Rafael Nadal in Australian Open Quarterfinal](https://www.nytimes.com/2020/01/29/sports/tennis/thiem-nadal-australian-open.html) (sports)
+5. [2020 Democrats Seek Voters in an Unusual Spot: Fox News](https://www.nytimes.com/2019/04/17/us/politics/fox-news-democrats-2020.html) (politics)
 
 # Comparison Criteria
 
-Articles' tags, sections, subsections, writing format, and subjective judgement is considered.
+Overlapping tags, sections, subsections, writing format, and subjective judgement are considered. For a more detailed description, please follow this blog post.
 
-# Winner Algorithm
+# Algorithm That Win Overall
 
-TF-IDF
+TF-IDF. It resulted in the best matches in 2.5 out of 5 comparisons.
 
-# Winner Algorithm for Each Article Comparison
+# Winner Algorithm By Each Article
 
 ## How My Worst Date Ever Became My Best
 
@@ -37,9 +39,9 @@ Winner: BERT
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (Why Are All the Exes Texting?)[https://www.nytimes.com/2020/05/29/style/modern-love-coronavirus-why-are-all-the-exes-texting.html] | 1 | Y | Y | Y | Dating | Related |
-| (When Love Seems Too Easy to Trust)[https://www.nytimes.com/2018/04/13/style/when-love-seems-too-easy-to-trust.html] | 1 | Y | Y | Y | Dating | Related |
-| (He Saved His Last Lesson for Me)[https://www.nytimes.com/2020/03/06/style/modern-love-long-distance-dating-korea.html] | 1 | Y | Y | Y | Dating | Related |
+| [Why Are All the Exes Texting?](https://www.nytimes.com/2020/05/29/style/modern-love-coronavirus-why-are-all-the-exes-texting.html) | 1 | Y | Y | Y | Dating | Related |
+| [When Love Seems Too Easy to Trust](https://www.nytimes.com/2018/04/13/style/when-love-seems-too-easy-to-trust.html) | 1 | Y | Y | Y | Dating | Related |
+| [He Saved His Last Lesson for Me](https://www.nytimes.com/2020/03/06/style/modern-love-long-distance-dating-korea.html) | 1 | Y | Y | Y | Dating | Related |
 
 ## A Deep-Sea Magma Monster Gets a Body Scan
 
@@ -47,9 +49,9 @@ Winner: TF-IDF
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (A 3D Encounter With a Violent Volcano’s Underbelly)[https://www.nytimes.com/2019/12/18/science/volcano-3d-reunion-island.html] | 4 | Y | N | Y | 3D Mapped Volcano | Highly Related |
-| (Pressure, and Mystery, on the Rise)[https://www.nytimes.com/2015/01/06/science/predicting-what-a-volcano-may-or-may-not-do-is-as-tricky-as-it-is-crucial-as-iceland-well-knows.html] | 1 | Y | Y | Y | Iceland's Volcano | Related |
-| (It’s Not Just Hawaii: The U.S. Has 169 Volcanoes That Could Erupt)[https://www.nytimes.com/2018/05/14/us/us-active-volcanoes-hawaii.html] | 2 | N | N | Y | Volcanos | Related |
+| [A 3D Encounter With a Violent Volcano’s Underbelly](https://www.nytimes.com/2019/12/18/science/volcano-3d-reunion-island.html) | 4 | Y | N | Y | 3D Mapped Volcano | Highly Related |
+| [Pressure, and Mystery, on the Rise](https://www.nytimes.com/2015/01/06/science/predicting-what-a-volcano-may-or-may-not-do-is-as-tricky-as-it-is-crucial-as-iceland-well-knows.html) | 1 | Y | Y | Y | Iceland's Volcano | Related |
+| [It’s Not Just Hawaii: The U.S. Has 169 Volcanoes That Could Erupt](https://www.nytimes.com/2018/05/14/us/us-active-volcanoes-hawaii.html) | 2 | N | N | Y | Volcanos | Related |
 
 
 ## Renault and Nissan Try a New Way After Years When Carlos Ghosn Ruled
@@ -58,9 +60,9 @@ Winner: TF-IDF
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (Nissan CEO Says 'No Merit' in Merger With Renault-Nikkei)[https://www.nytimes.com/reuters/2018/04/25/business/25reuters-renault-nissan-m-a.html] | 3 | N | N | Y | Nissan and Renault | Related |
-| (Carlos Ghosn and the Roots of Nissan’s Decline)[https://www.nytimes.com/2020/01/15/automobiles/nissan-carlos-ghosn-strategy.html] | 3 | N | N | N | Cardlos Ghosn | Related |
-| (Renault Chooses Volkswagen Executive as New C.E.O.)[https://www.nytimes.com/2020/01/28/business/renault-ceo-luca-de-meo.html] | 5 | Y | Y | Y | Renault CEO | Very Related |
+| [Nissan CEO Says 'No Merit' in Merger With Renault-Nikkei](https://www.nytimes.com/reuters/2018/04/25/business/25reuters-renault-nissan-m-a.html) | 3 | N | N | Y | Nissan and Renault | Related |
+| [Carlos Ghosn and the Roots of Nissan’s Decline](https://www.nytimes.com/2020/01/15/automobiles/nissan-carlos-ghosn-strategy.html) | 3 | N | N | N | Cardlos Ghosn | Related |
+| [Renault Chooses Volkswagen Executive as New C.E.O.](https://www.nytimes.com/2020/01/28/business/renault-ceo-luca-de-meo.html) | 5 | Y | Y | Y | Renault CEO | Very Related |
 
 ## Dominic Thiem Beats Rafael Nadal in Australian Open Quarterfinal
 
@@ -80,12 +82,10 @@ Winner: USE
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (Bernie Sanders Had a Problem With MSNBC. Then Came Super Tuesday.)[https://www.nytimes.com/2020/03/05/business/media/msnbc-bernie-sanders-media.html] | 7 | N | N | Y | Sanders and MSNBC | Very Related |
-| (Democrats, Don’t Abandon Fox News)[https://www.nytimes.com/2019/03/08/opinion/fox-news-democrats-debate.html] | 7 | N | N | N | Democrats and Fox News | Very Related |
-| (Candidates Running Against, and With, Cable News)[https://www.nytimes.com/2010/10/24/us/politics/24cable.html] | 4 | Y | Y | Y | Fox, MSNBC and politics  | Related |
+| [Bernie Sanders Had a Problem With MSNBC. Then Came Super Tuesday.](https://www.nytimes.com/2020/03/05/business/media/msnbc-bernie-sanders-media.html) | 7 | N | N | Y | Sanders and MSNBC | Very Related |
+| [Democrats, Don’t Abandon Fox News](https://www.nytimes.com/2019/03/08/opinion/fox-news-democrats-debate.html) | 7 | N | N | N | Democrats and Fox News | Very Related |
+| [Candidates Running Against, and With, Cable News](https://www.nytimes.com/2010/10/24/us/politics/24cable.html) | 4 | Y | Y | Y | Fox, MSNBC and politics  | Related |
 
 # Note
 
-Detailed breakdown of each article is found in the algorithm folder.
-
-For a more detailed description, please follow this blog post.
+Detailed breakdown of each article is found in the algorithm folders.
