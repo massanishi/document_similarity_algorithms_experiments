@@ -33,15 +33,13 @@ TF-IDF
 
 ## How My Worst Date Ever Became My Best
 
-Winner: USE and BERT
-
-(USE)
+Winner: BERT
 
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
-| (My Quarantine Boyfriend Lost Everything (but Found Me))[https://www.nytimes.com/2020/06/05/style/modern-love-coronavirus-quarantine-boyfriend-lost-everything.html] | 1 | Y | Y | Y | Dating | Related |
-| (Flying Close to Temptation)[https://www.nytimes.com/2018/04/20/style/modern-love-flying-close-to-temptation.html] | 0 | Y | Y | Y | LGBTQ | Related |
 | (Why Are All the Exes Texting?)[https://www.nytimes.com/2020/05/29/style/modern-love-coronavirus-why-are-all-the-exes-texting.html] | 1 | Y | Y | Y | Dating | Related |
+| (When Love Seems Too Easy to Trust)[https://www.nytimes.com/2018/04/13/style/when-love-seems-too-easy-to-trust.html] | 1 | Y | Y | Y | Dating | Related |
+| (He Saved His Last Lesson for Me)[https://www.nytimes.com/2020/03/06/style/modern-love-long-distance-dating-korea.html] | 1 | Y | Y | Y | Dating | Related |
 
 ## A Deep-Sea Magma Monster Gets a Body Scan
 
