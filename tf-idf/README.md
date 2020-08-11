@@ -94,7 +94,7 @@
 |Title|Tag Overlap|Section Overlap|Subsection Overlap|Style Overlap|Theme|Subjective|
 |---|---|---|---|---|---|---|
 | [Nissan CEO Says 'No Merit' in Merger With Renault-Nikkei](https://www.nytimes.com/reuters/2018/04/25/business/25reuters-renault-nissan-m-a.html) | 3 | N | N | Y | Nissan and Renault | Related |
-| [Carlos Ghosn and the Roots of Nissan’s Decline](https://www.nytimes.com/2020/01/15/automobiles/nissan-carlos-ghosn-strategy.html) | 3 | N | N | N | Cardlos Ghosn | Related |
+| [Carlos Ghosn and the Roots of Nissan’s Decline](https://www.nytimes.com/2020/01/15/automobiles/nissan-carlos-ghosn-strategy.html) | 3 | N | N | N | Carlos Ghosn | Related |
 | [Renault Chooses Volkswagen Executive as New C.E.O.](https://www.nytimes.com/2020/01/28/business/renault-ceo-luca-de-meo.html) | 5 | Y | Y | Y | Renault CEO | Very Related |
 
 ### Breakdown
