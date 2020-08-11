@@ -56,7 +56,7 @@ def process_jaccard_similarity():
 	# Tokenize the base document we are comparing against.
 	base_tokens = preprocess(base_document)
 
-	# Tokenize each ducment
+	# Tokenize each document
 	all_tokens = []
 	for i, document in enumerate(documents):
 		tokens = preprocess(document)

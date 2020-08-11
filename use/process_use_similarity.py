@@ -11,11 +11,11 @@ def process_use_similarity():
 
 	model = hub.load(filename)
 
-	base_embeddings = model([base_document])[0]
+	base_embeddings = model([base_document])
 
 	embeddings = model(documents)
 
-	scores = cosine_similarity([base_embeddings], embeddings).flatten()
+	scores = cosine_similarity(base_embeddings, embeddings).flatten()
 
 	highest_score = 0
 	highest_score_index = 0
